@@ -1,0 +1,25 @@
+{
+  "name": "sweet-testing-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tysweet/testing-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tysweet/testing-project/issues"
+  },
+  "homepage": "https://github.com/tysweet/testing-project#readme",
+  "dependencies": {
+    "sweet-dash": "^1.0.1"
+  },
+  "devDependencies": {
+    "jest": "^22.4.3"
+  }
+}
